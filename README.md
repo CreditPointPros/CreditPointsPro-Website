@@ -13,7 +13,7 @@ Welcome to CreditPointsPro, a website designed to help you maximize your travel 
 
 ## Motivation
 
-CreditPointPro was created to empower travelers by educating them on the best travel credit card offers and strategies to maximize their points. Our goal is to help you make informed decisions about your credit card usage so you can save money on travel and enjoy more of the world.
+CreditPointsPro was created to empower travelers by educating them on the best travel credit card offers and strategies to maximize their points. Our goal is to help you make informed decisions about your credit card usage so you can save money on travel and enjoy more of the world.
 
 ## Features
 
@@ -27,7 +27,7 @@ CreditPointPro was created to empower travelers by educating them on the best tr
 
 To get started with PointsHack, follow these steps:
 
-1. Visit the [PointsHack Website](#)
+1. Visit the [CreditPointsPro Website](#https://creditpointpros.github.io/CreditPointsPro-Website/)
 2. Sign up for a free account.
 3. Start exploring our tutorials and tracking your credit card points.
 
