@@ -9,7 +9,6 @@ Welcome to CreditPointsPro, a website designed to help you maximize your travel 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Motivation
@@ -41,10 +40,6 @@ To get started with PointsHack, follow these steps:
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to PointsHack, please fork the repository and submit a pull request. Make sure to follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
